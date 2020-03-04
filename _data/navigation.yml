@@ -1,0 +1,24 @@
+- name: About
+  link: /about/
+  new_window: false
+  highlight: false
+#- name: Blog
+#  link: /blog/
+#  new_window: false
+#  highlight: false
+- name: Docs
+  link: https://docs.statusbox.io
+  new_window: true
+  highlight: false
+- name: Pricing
+  link: /pricing/
+  new_window: false
+  highlight: false
+- name: Login
+  link: https://dash.statusbox.io/login
+  new_window: true
+  highlight: false
+- name: Sign Up
+  link: https://dash.statusbox.io/register
+  new_window: true
+  highlight: true
